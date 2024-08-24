@@ -10,5 +10,6 @@ public class Lab066 {
         int min = a<b ? a : b;
         System.out.println(max);
         System.out.println(min);
+
     }
 }
